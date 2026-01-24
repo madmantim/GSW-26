@@ -1,0 +1,35 @@
+site_name: GSW 2026 Hokkaido
+site_url: https://madmantim.github.io/GSW-26/
+repo_url: https://github.com/madmantim/GSW-26
+
+theme:
+  name: material
+  palette:
+    primary: blue grey
+    accent: deep orange
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Resorts:
+    - Teine Highland: resorts/teine-highland.md
+    - Sapporo Kokusai: resorts/sapporo-kokusai.md
+    - Kiroro: resorts/kiroro.md
+    - Mount Racey: resorts/mount-racey.md
+    - Tomamu: resorts/tomamu.md
+    - Sahoro: resorts/sahoro.md
+    - Furano: resorts/furano.md
+    - Asahidake: resorts/asahidake.md
+    - Kurodake: resorts/kurodake.md
+    - Kamui: resorts/kamui.md
+    - Pippu: resorts/pippu.md
+    - Wassamu: resorts/wassamu.md
+    - Nayoro Piyashiri: resorts/nayoro-piyashiri.md
+    - Horotachi: resorts/horotachi.md
