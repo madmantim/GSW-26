@@ -8,18 +8,18 @@
 
 ## The Itinerary
 
-**Week 1: Sapporo Region** (Jan 29-31)
+**Sapporo Region** (Jan 29-31 • 3 days)
 - Teine Highland — Hokkaido's steepest terrain
 - Sapporo Kokusai — Local favorite, 16m snowfall
 - Kiroro — 21m legendary powder
 
-**Week 2: Central Hokkaido** (Feb 1-4)
+**Central Hokkaido** (Feb 1-4 • 4 days)
 - Mount Racey → Tomamu → Sahoro → Furano
 
-**Week 3: Daisetsuzan Mountains** (Feb 5-8)
+**Daisetsuzan Mountains** (Feb 5-8 • 4 days)
 - Asahidake (1,600m ropeway) → Kurodake → Kamui → Pippu
 
-**Week 4: Deep North** (Feb 9-11)
+**Deep North** (Feb 9-11 • 3 days)
 - Wassamu → Nayoro Piyashiri → Horotachi
 
 ---

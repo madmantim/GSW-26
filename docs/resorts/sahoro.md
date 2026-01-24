@@ -71,18 +71,21 @@
 ### Best Tree Zones (Snowboarder-Friendly)
 Based on Japow Travel + Powderhounds:
 
-1. **Upper Mountain Tree Runs**
+
+**1. Upper Mountain Tree Runs**
    - Access via gondola → high quads
    - Best pitch and fall line
    - Work the fall-line shots early before obvious lines get trenched
    - Even when tracked, dry snow "smears and slarves beautifully"
 
-2. **Lee-Side Glades** (storm days)
+
+**2. Lee-Side Glades** (storm days)
    - Hit protected sides first when wind is up
    - Trees hold snow well despite exposed ridgeline
    - Creep toward exposed spines as wind eases
 
-3. **Connector Glades**
+
+**3. Connector Glades**
    - Secret stash fringes between main runs
    - "Pop back to main piste without grinding cat tracks"
    - Locals ignore these → good for afternoon sessions
@@ -120,19 +123,22 @@ Based on Japow Travel + Powderhounds:
 
 ### LUNCH (Best Options)
 
-1. **Fomalhaut** (Main Gondola Station)
+
+**1. Fomalhaut** (Main Gondola Station)
    - ⭐ **Top pick** for hot meals
    - "Delicious lunch perfect for power charge after skiing"
    - Standard Japanese ski fare: ramen, curry rice, katsu curry, pork bowls
    - Quick, warm, close to lifts
    - Hours: 11:00-15:00
 
-2. **Hanamori Kuma Mountain Hut Store**
+
+**2. Hanamori Kuma Mountain Hut Store**
    - Seasonal operation (Dec 20 - Mar 31, 2026)
    - Hours: 10:00-16:00 (last order 15:30)
    - Good for snacks and quick bites
 
-3. **Drinks** (Cafe)
+
+**3. Drinks** (Cafe)
    - Drinks and sweets for short breaks
    - Hours: 10:00-16:00
    - Think: coffee, hot chocolate, pastries
@@ -269,11 +275,16 @@ Based on Japow Travel + Powderhounds:
 - **Intermediate heaven:** Great for mixed-ability group
 
 ### Strategy for the Day
-1. **Early start:** First gondola for best tree runs
-2. **Morning:** Hit upper mountain trees while fresh
-3. **Lunch:** Fomalhaut (ramen/curry)
-4. **Afternoon:** Groomers or explore connector glades
-5. **Evening:** Return to Tomamu for dinner at Camaro Steak Diner (18:30 booking)
+
+**1. Early start:** First gondola for best tree runs
+
+**2. Morning:** Hit upper mountain trees while fresh
+
+**3. Lunch:** Fomalhaut (ramen/curry)
+
+**4. Afternoon:** Groomers or explore connector glades
+
+**5. Evening:** Return to Tomamu for dinner at Camaro Steak Diner (18:30 booking)
 
 ### Weather/Conditions Backup
 - If Sahoro is windy/poor visibility → stick to Tomamu instead (we're based there)

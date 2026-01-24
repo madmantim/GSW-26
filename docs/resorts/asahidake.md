@@ -76,10 +76,14 @@
 ## Hot Tips: Powder Stashes & Tree Runs
 
 ### Powder Strategy
-1. **Hit early AM** — freshies disappear fast near ropeway top
-2. **Fan out wider** — fresh tracks available at lunch if you're willing to hike a bit
-3. **Short hikes = big rewards** — sidecountry has steeper pitches, less tracked
-4. **Alpine touring** — endless terrain above ropeway (skin/snowshoe required)
+
+**1. Hit early AM** — freshies disappear fast near ropeway top
+
+**2. Fan out wider** — fresh tracks available at lunch if you're willing to hike a bit
+
+**3. Short hikes = big rewards** — sidecountry has steeper pitches, less tracked
+
+**4. Alpine touring** — endless terrain above ropeway (skin/snowshoe required)
 
 ### Best Zones (Ropeway Accessed)
 
@@ -338,9 +342,12 @@ This mountain will **test your patience** on the flats, but **reward you** in th
 
 ### ☁️ Backup Plans
 If ropeway is closed due to wind:
-1. **Kurodake** (Sounkyo side) — different ropeway, might be running
-2. **Kamui Ski Links** — closer to Asahikawa, more lift-serviced
-3. **Bail to Asahikawa** — rest day, explore sake brewery/zoo/city
+
+**1. Kurodake** (Sounkyo side) — different ropeway, might be running
+
+**2. Kamui Ski Links** — closer to Asahikawa, more lift-serviced
+
+**3. Bail to Asahikawa** — rest day, explore sake brewery/zoo/city
 
 ### 🥶 Weather Reality Check
 **Feb 5 is PEAK WINTER.** Expect:

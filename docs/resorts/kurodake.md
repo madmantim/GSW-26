@@ -338,10 +338,14 @@ Kurodake is **not like other Hokkaido resorts**. This is:
 ### Backup Plan Options (Feb 6)
 If Kurodake doesn't pan out:
 
-1. **Kamui Ski Links** (40min from Asahikawa) — underrated gem, good tree zones
-2. **Asahidake (return visit)** — ropeway may be more reliable than Kurodake
-3. **Otokoyama Sake Brewery day** — tour, tastings, Asahikawa ramen lunch
-4. **Sounkyo Ice Festival + onsen** — still worth the drive for culture/relaxation
+
+**1. Kamui Ski Links** (40min from Asahikawa) — underrated gem, good tree zones
+
+**2. Asahidake (return visit)** — ropeway may be more reliable than Kurodake
+
+**3. Otokoyama Sake Brewery day** — tour, tastings, Asahikawa ramen lunch
+
+**4. Sounkyo Ice Festival + onsen** — still worth the drive for culture/relaxation
 
 ### Snowboarder Considerations
 - ⚠️ Chairlift terrain is FLAT (not worth it for boards)

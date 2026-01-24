@@ -79,11 +79,16 @@
 **This is the dream:** Opens at **10am** (leisurely!) and powder **stays untouched until late in the day**. Zero crowds. Zero competition. If you've been dealing with tracked-out resorts, this is your therapy day.
 
 ### Powder Strategy
-1. **No rush!** — Seriously. Sleep in. The powder will wait.
-2. **Hit the trees mid-morning** — Still untracked at 11am, noon, even 2pm
-3. **Lap the ungroomed zones** (marked red on map) — Locals might not even touch them
-4. **Single chair = goods** — Top lift accesses the best tree zones
-5. **Explore both sides** — Skier's right has more vertical, left is quicker laps
+
+**1. No rush!** — Seriously. Sleep in. The powder will wait.
+
+**2. Hit the trees mid-morning** — Still untracked at 11am, noon, even 2pm
+
+**3. Lap the ungroomed zones** (marked red on map) — Locals might not even touch them
+
+**4. Single chair = goods** — Top lift accesses the best tree zones
+
+**5. Explore both sides** — Skier's right has more vertical, left is quicker laps
 
 ### Terrain Notes
 - **Max gradient 30°** — Not scary steep, but pitchy enough to be fun

@@ -68,17 +68,20 @@
 ### Best Tree Zones (Snowboarder-Friendly)
 Based on powderhounds.com + off-piste international:
 
-1. **Deep Pine** (off-piste zone #2)
+
+**1. Deep Pine** (off-piste zone #2)
    - Well-spaced pines and evergreens
    - Feeds back to main runs
    - Short hike from Asari lifts
 
-2. **Monkey Park** (off-piste zone #6)
+
+**2. Monkey Park** (off-piste zone #6)
    - Classic Kiroro tree run
    - Medium density, good flow for boards
    - Accessed via Nagamine area
 
-3. **Powder Ridge** (off-piste zone #1)
+
+**3. Powder Ridge** (off-piste zone #1)
    - Top elevation powder zone
    - Best after fresh snow
    - Can get tracked fast (Club Med crowds)
@@ -118,26 +121,30 @@ Based on powderhounds.com + off-piste international:
 
 ### LUNCH (Best Options)
 
-1. **Brasserie Akaigawa** (Gondola Base Station 1F)
-   - ⭐ **Top pick** for noodle dishes
-   - Uses local Akaigawa vegetables & pork
-   - Good variety, quality above typical ski cafeteria
+**1. Brasserie Akaigawa** (Gondola Base Station 1F)
 
-2. **Cafeteria Lumiere** (Mountain Center 1F)
-   - Lunch sets: oven dishes, Chinese, Akaigawa pork
-   - Self-service salad/soup/drink bar
-   - Hokkaido-exclusive Sapporo Classic Lager available 🍺
-   - Good value
+- ⭐ **Top pick** for noodle dishes
+- Uses local Akaigawa vegetables & pork
+- Good variety, quality above typical ski cafeteria
 
-3. **The Lounge, Premium** (within Lumiere)
-   - Semi-private room with slope views
-   - Free Wi-Fi, power, salad/soup/drink bar
-   - ⚠️ **Reservations highly recommended**
+**2. Cafeteria Lumiere** (Mountain Center 1F)
 
-4. **Pizzeria Akaigawa** (Mountain Center 1F)
-   - Fresh hot pizzas
-   - Take-out available
-   - Quick refuel option
+- Lunch sets: oven dishes, Chinese, Akaigawa pork
+- Self-service salad/soup/drink bar
+- Hokkaido-exclusive Sapporo Classic Lager available 🍺
+- Good value
+
+**3. The Lounge, Premium** (within Lumiere)
+
+- Semi-private room with slope views
+- Free Wi-Fi, power, salad/soup/drink bar
+- ⚠️ **Reservations highly recommended**
+
+**4. Pizzeria Akaigawa** (Mountain Center 1F)
+
+- Fresh hot pizzas
+- Take-out available
+- Quick refuel option
 
 ### SNACKS & DRINKS
 - **Cafe Le Lift** — Western-style oden, light snacks, desserts
