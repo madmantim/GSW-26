@@ -18,6 +18,24 @@ plugins:
 
 nav:
   - Home: index.md
+  - Daily Itinerary:
+    - Jan 28 - Arrival: days/day-01-arrival.md
+    - Jan 29 - Teine Highland: days/day-02-teine.md
+    - Jan 30 - Sapporo Kokusai: days/day-03-kokusai.md
+    - Jan 31 - Kiroro: days/day-04-kiroro.md
+    - Feb 1 - Mount Racey: days/day-05-racey.md
+    - Feb 2 - Tomamu: days/day-06-tomamu.md
+    - Feb 3 - Sahoro: days/day-07-sahoro.md
+    - Feb 4 - Furano: days/day-08-furano.md
+    - Feb 5 - Asahidake: days/day-09-asahidake.md
+    - Feb 6 - Kurodake: days/day-10-kurodake.md
+    - Feb 7 - Kamui: days/day-11-kamui.md
+    - Feb 8 - Pippu: days/day-12-pippu.md
+    - Feb 9 - Wassamu: days/day-13-wassamu.md
+    - Feb 10 - Nayoro: days/day-14-nayoro.md
+    - Feb 11 - Horotachi: days/day-15-horotachi.md
+    - Feb 12 - Transit: days/day-16-transit.md
+    - Feb 13 - Departure: days/day-17-departure.md
   - Resorts:
     - Teine Highland: resorts/teine-highland.md
     - Sapporo Kokusai: resorts/sapporo-kokusai.md

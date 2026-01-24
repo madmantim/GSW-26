@@ -1,8 +1,9 @@
 # GSW 2026 Hokkaido
 
-**January 28 - February 13, 2026**
+**January 28 - February 13, 2026**  
+**17 days • 14 ski days • 13 resorts**
 
-13 resorts across Hokkaido, from Sapporo's urban peaks to the remote powder fields of the deep north.
+From Sapporo's urban peaks to the remote powder fields of the deep north.
 
 ---
 
