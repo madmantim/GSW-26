@@ -21,7 +21,7 @@
 ## From Our Accommodation
 
 **Base:** Court Hotel Asahikawa  
-**Distance:** ~70km  
+**Distance:** ~60km  
 **Travel time:** ~70 minutes  
 **Route:** Asahikawa → Route 39 → Route 213 (Asahidake Onsen)  
 **Google Maps:** [View route](https://www.google.com/maps/dir/Court+Hotel+Asahikawa,+Asahikawa/Asahidake+Ropeway,+Higashikawa)

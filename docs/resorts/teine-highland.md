@@ -21,7 +21,7 @@
 
 **Base:** Hotel WBF Sapporo Chuo (Central Sapporo)  
 **Distance:** ~20km  
-**Travel time:** 40-45 minutes  
+**Travel time:** ~30-40 minutes  
 **Route:** Central Sapporo → Route 5 (northwest) → Teine IC → Local roads to Highland  
 **Google Maps:** [View route](https://www.google.com/maps/dir/Hotel+WBF+Sapporo+Chuo,+Sapporo/Sapporo+Teine+Highland,+Teine-ku,+Sapporo)
 

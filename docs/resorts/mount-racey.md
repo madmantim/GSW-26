@@ -24,7 +24,7 @@
 **Route:** Tomamu → Route 38 → Route 274 west → Yubari  
 **Google Maps:** [View route](https://www.google.com/maps/dir/Tomamu+The+Tower/Mount+Racey+Ski+Area,+Yubari)
 
-**After skiing:** Drive to Asahikawa (~100km, ~1.5-2 hours)  
+**After skiing:** Drive to Asahikawa (~85km, ~1.5-2 hours)  
 **Full day route:** Tomamu → Mt Racey → Asahikawa (~185km total, ~3-3.5 hours driving + skiing)
 
 **Parking:**  
