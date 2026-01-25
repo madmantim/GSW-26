@@ -62,19 +62,19 @@ This is a **transition day** — ski the morning at Mt Racey, then drive to Asah
 ### Best Tree Zones (Snowboarder-Friendly)
 Based on Powderhounds + local beta:
 
-1. **Either side of "Thrilling Line"**
-   - Official course is boring (7° average pitch), but the trees are gold
-   - Well-spaced, powder holds well
-   - Feeds back to main lifts
+- **Either side of "Thrilling Line"**
+    - Official course is boring (7° average pitch), but the trees are gold
+    - Well-spaced, powder holds well
+    - Feeds back to main lifts
 
-2. **"In-bounds" tree zones throughout**
-   - Not heavily marked, but patrolled
-   - Look for natural gaps in tree cover
-   - Very few people ski these — you'll likely have them to yourself
+- **"In-bounds" tree zones throughout**
+    - Not heavily marked, but patrolled
+    - Look for natural gaps in tree cover
+    - Very few people ski these — you'll likely have them to yourself
 
-3. **Off-piste stashes**
-   - Multiple unmarked powder zones
-   - Low visitation = fresh tracks hours after snowfall
+- **Off-piste stashes**
+    - Multiple unmarked powder zones
+    - Low visitation = fresh tracks hours after snowfall
 
 ### Powder Strategy
 - 🎿 **Arrive early** — we want first tracks before the school groups
@@ -112,18 +112,18 @@ Based on Powderhounds + local beta:
 
 ### LUNCH (Limited Options)
 
-1. **Restaurant Tanpopo (たんぽぽ)** (Center House, 1F)
-   - ⭐ **Only real restaurant option**
-   - Hours: 11:00-14:00
-   - Menu: Curry rice, ramen, ankake yakisoba (thick noodle stir-fry)
-   - ⚠️ **Cash only** — ticket vending machine
-   - Nice views of the slopes
-   - Simple, cheap ski cafeteria food
+- **Restaurant Tanpopo (たんぽぽ)** (Center House, 1F)
+    - ⭐ **Only real restaurant option**
+    - Hours: 11:00-14:00
+    - Menu: Curry rice, ramen, ankake yakisoba (thick noodle stir-fry)
+    - ⚠️ **Cash only** — ticket vending machine
+    - Nice views of the slopes
+    - Simple, cheap ski cafeteria food
 
-2. **Snow Style Cafe** (Shuttle Base)
-   - Hours: 10:00-16:00
-   - Light snacks and drinks
-   - Quick refuel option
+- **Snow Style Cafe** (Shuttle Base)
+    - Hours: 10:00-16:00
+    - Light snacks and drinks
+    - Quick refuel option
 
 ### SNACKS & DRINKS
 - Vending machines at Shuttle Base and Center House

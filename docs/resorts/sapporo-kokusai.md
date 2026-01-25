@@ -74,23 +74,23 @@ But good to know the terrain is legendary if we wanted to hire a guide!
 ### Best Tree Zones (Snowboarder-Friendly)
 Based on NinjaPowder, Powderhounds, and Whiteroom guides:
 
-1. **In-Bounds Tree Pockets**
-   - Scattered throughout the resort (skier's left side especially)
-   - Generously spaced — perfect for boards
-   - "Farm skiing" strategy: push out to sides, ski fresh all day
-   - Less tracked than groomers (crowds stick to pistes)
+- **In-Bounds Tree Pockets**
+    - Scattered throughout the resort (skier's left side especially)
+    - Generously spaced — perfect for boards
+    - "Farm skiing" strategy: push out to sides, ski fresh all day
+    - Less tracked than groomers (crowds stick to pistes)
 
-2. **Gullies & Natural Features**
-   - Band of R-rated cliffs (avoid unless confident)
-   - Multiple gullies to explore
-   - Snow protected from wind = consistently good conditions
-   - North-facing zones hold powder longest
+- **Gullies & Natural Features**
+    - Band of R-rated cliffs (avoid unless confident)
+    - Multiple gullies to explore
+    - Snow protected from wind = consistently good conditions
+    - North-facing zones hold powder longest
 
-3. **Backcountry Tree Runs** (with guide only)
-   - Mt. Shirai → Mt. Asari route = "park-like gullies"
-   - 20-30 min run through ancient trees
-   - Enormous old-growth trees
-   - Feeds back to resort
+- **Backcountry Tree Runs** (with guide only)
+    - Mt. Shirai → Mt. Asari route = "park-like gullies"
+    - 20-30 min run through ancient trees
+    - Enormous old-growth trees
+    - Feeds back to resort
 
 ### Powder Strategy
 - ⚠️ **WEEKEND CROWDS** — This is a local favorite from Sapporo/Otaru
@@ -133,26 +133,26 @@ Based on NinjaPowder, Powderhounds, and Whiteroom guides:
 
 From Powderhounds + official site:
 
-1. **Cafeteria Squirrel** (Base Lodge)
-   - Large main cafeteria
-   - Inexpensive, cafeteria-style
-   - ⭐ **Japanese curry** — guides' favorite!
-   - Gets busy/soulless but functional
-   - Good value
+- **Cafeteria Squirrel** (Base Lodge)
+    - Large main cafeteria
+    - Inexpensive, cafeteria-style
+    - ⭐ **Japanese curry** — guides' favorite!
+    - Gets busy/soulless but functional
+    - Good value
 
-2. **Family Restaurant Rabbit** (Base Area)
-   - Family-friendly option
-   - Standard ski resort fare
+- **Family Restaurant Rabbit** (Base Area)
+    - Family-friendly option
+    - Standard ski resort fare
 
-3. **Ramen Shop Owl** (Base Area)
-   - Quick ramen fix
-   - Warm-up option
+- **Ramen Shop Owl** (Base Area)
+    - Quick ramen fix
+    - Warm-up option
 
-4. **Mountaintop Café** (Gondola Summit)
-   - Small cute café
-   - Simple fare
-   - Good views on clear days
-   - Less crowded
+- **Mountaintop Café** (Gondola Summit)
+    - Small cute café
+    - Simple fare
+    - Good views on clear days
+    - Less crowded
 
 ### SNACKS & DRINKS
 - **Convenience store** (Base Lodge) — cheapest option for snacks/drinks
@@ -235,15 +235,15 @@ Compare to Kiroro (¥8,800) or Niseko — this is a steal for the quality of sno
 
 **Top Options:**
 
-1. **Jozankei Daiichi Hotel Suizantei**
-   - Mentioned in Powderhounds as excellent
-   - Traditional ryokan experience
-   - Multiple onsen options
-   - Day-visit onsen available
+- **Jozankei Daiichi Hotel Suizantei**
+    - Mentioned in Powderhounds as excellent
+    - Traditional ryokan experience
+    - Multiple onsen options
+    - Day-visit onsen available
 
-2. **Hana Momiji**
-   - Well-regarded onsen resort
-   - Day-visit options
+- **Hana Momiji**
+    - Well-regarded onsen resort
+    - Day-visit options
 
 **Route note:** Jozankei is directly between Sapporo and Kokusai on Route 230 — perfect stop on the way home!
 

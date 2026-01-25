@@ -71,16 +71,16 @@
 **"The all-you-can-eat powder buffet"** — Kamui means "god" or "divine being" in Ainu mythology, and this place lives up to the name!
 
 ### Best Tree Zones (Snowboarder-Friendly)
-1. **Official Tree Runs (A, B, C)**
-   - Well-spaced pines and evergreens
-   - Good flow for boards
-   - Less tracked than famous resorts
-   - Named zones feed back to lifts
+- **Official Tree Runs (A, B, C)**
+    - Well-spaced pines and evergreens
+    - Good flow for boards
+    - Less tracked than famous resorts
+    - Named zones feed back to lifts
 
-2. **Shinsetsu Zone**
-   - Ungroomed fresh snow area
-   - Top elevation powder stashes
-   - Check conditions daily (can close in bad weather)
+- **Shinsetsu Zone**
+    - Ungroomed fresh snow area
+    - Top elevation powder stashes
+    - Check conditions daily (can close in bad weather)
 
 ### Powder Strategy
 - ✅ **HUGE ADVANTAGE:** Uncrowded compared to Niseko/Kiroro
@@ -131,24 +131,24 @@
 
 ### LUNCH (Best Options)
 
-1. **Trattoria Pizzeria Monte 751** (Top of Gondola) ⭐
-   - **Top pick** for atmosphere
-   - Open fireplace, stunning valley views
-   - Curries, sandwiches, variety of drinks
-   - Great après vibe at 751m elevation
-   - Cafe-come-bar atmosphere
+- **Trattoria Pizzeria Monte 751** (Top of Gondola) ⭐
+    - **Top pick** for atmosphere
+    - Open fireplace, stunning valley views
+    - Curries, sandwiches, variety of drinks
+    - Great après vibe at 751m elevation
+    - Cafe-come-bar atmosphere
 
-2. **Main Dining** (Centre Lodge, Base)
-   - Restaurant + fast food area
-   - "Delicious and easy food"
-   - Good variety, standard ski resort fare
-   - Convenient for quick refuel
+- **Main Dining** (Centre Lodge, Base)
+    - Restaurant + fast food area
+    - "Delicious and easy food"
+    - Good variety, standard ski resort fare
+    - Convenient for quick refuel
 
-3. **Ramen Noodle Bar NOBU** (Base)
-   - Asahikawa's famous ramen noodles
-   - "Enjoy on the mountain, not in downtown!"
-   - Perfect for cold powder days
-   - Local specialty
+- **Ramen Noodle Bar NOBU** (Base)
+    - Asahikawa's famous ramen noodles
+    - "Enjoy on the mountain, not in downtown!"
+    - Perfect for cold powder days
+    - Local specialty
 
 ### SNACKS & DRINKS
 - Vending machines everywhere (this is Japan!)
@@ -339,12 +339,12 @@ All easily accessed from Asahikawa:
 
 **The Underrated Gem Thesis:**
 
-1. **Value Champion:** ¥5,300 vs ¥8,800 (Kiroro) = 40% cheaper for similar powder quality
-2. **Uncrowded:** Fresh tracks last ALL DAY on weekdays
-3. **Quality > Quantity:** 8m of Central Hokkaido's driest, lightest snow
-4. **Tree Paradise:** 4 official zones + relaxed off-piste policy
-5. **Cultural Authenticity:** Based in real Asahikawa, not resort bubble
-6. **Perfect Timing:** Mid-trip (Feb 7) = legs fresh, powder skills honed
+- **Value Champion:** ¥5,300 vs ¥8,800 (Kiroro) = 40% cheaper for similar powder quality
+- **Uncrowded:** Fresh tracks last ALL DAY on weekdays
+- **Quality > Quantity:** 8m of Central Hokkaido's driest, lightest snow
+- **Tree Paradise:** 4 official zones + relaxed off-piste policy
+- **Cultural Authenticity:** Based in real Asahikawa, not resort bubble
+- **Perfect Timing:** Mid-trip (Feb 7) = legs fresh, powder skills honed
 
 **What We're Trading:**
 - Size/variety (but we have 13 days of other resorts!)

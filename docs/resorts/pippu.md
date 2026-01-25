@@ -68,11 +68,11 @@
 ## Hot Tips: Powder Stashes & Tree Runs
 
 ### Why Pippu is Perfect for Tired Legs
-1. **Usually empty** — often feels like a private resort
-2. **Short, manageable laps** — not exhausting
-3. **Mellow off-piste** — no commitment required
-4. **Super cheap** — won't feel guilty leaving early
-5. **Onsen next door** — soak those legs!
+- **Usually empty** — often feels like a private resort
+- **Short, manageable laps** — not exhausting
+- **Mellow off-piste** — no commitment required
+- **Super cheap** — won't feel guilty leaving early
+- **Onsen next door** — soak those legs!
 
 ### Best Tree Zones (Snowboarder-Friendly)
 - **Skier's left trees** (off Deep Snow Course / Golden Course)
@@ -123,17 +123,17 @@ If someone (Piers?) wants to charge despite it being recovery day:
 
 ### LUNCH (Best Options)
 
-1. **Restaurant "Yukibanya"** (Central area)
-   - ⭐ **Top pick:** Nijimasu Oyako-don (rainbow trout bowl)
-   - Highly rated by locals
-   - Uses Pippu-grown rainbow trout (local specialty!)
-   - Good value
+- **Restaurant "Yukibanya"** (Central area)
+    - ⭐ **Top pick:** Nijimasu Oyako-don (rainbow trout bowl)
+    - Highly rated by locals
+    - Uses Pippu-grown rainbow trout (local specialty!)
+    - Good value
 
-2. **Center House "Skip"** (Main lodge)
-   - **Karaage-don** (fried chicken bowl) — popular comfort food
-   - **Fried Taiyaki** — sweet fish-shaped pastry (unique!)
-   - Incredibly cheap
-   - Basic cafeteria setup but solid food
+- **Center House "Skip"** (Main lodge)
+    - **Karaage-don** (fried chicken bowl) — popular comfort food
+    - **Fried Taiyaki** — sweet fish-shaped pastry (unique!)
+    - Incredibly cheap
+    - Basic cafeteria setup but solid food
 
 ### MEAL COUPONS
 - 4-hour pass + meal coupon: ¥3,600 adult (saves ¥600)

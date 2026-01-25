@@ -74,24 +74,24 @@
 
 ### Best Sidecountry Zones (Snowboarder-Friendly)
 
-1. **Link Chair Area** (PRIORITY #1)
-   - Between Furano Zone and Kitanomine Zone
-   - Accessible from top of Link Chair OR Furano Gondola
-   - Multiple gullies funnel back to lifts (both zones)
-   - **Best feature:** Lifts run in low wind (when other resorts shut down)
-   - Can lap this zone all day on storm days
-   - Short hikes above chair for bonus terrain (but ava-prone — be careful)
+- **Link Chair Area** (PRIORITY #1)
+    - Between Furano Zone and Kitanomine Zone
+    - Accessible from top of Link Chair OR Furano Gondola
+    - Multiple gullies funnel back to lifts (both zones)
+    - **Best feature:** Lifts run in low wind (when other resorts shut down)
+    - Can lap this zone all day on storm days
+    - Short hikes above chair for bonus terrain (but ava-prone — be careful)
 
-2. **Skier's Right (Furano Zone)**
-   - Various sustained lines dropping into drainage
-   - Return via goat-track along drainage (passes large concrete dam)
-   - Longer hike out but quality powder
-   - Less tracked than Link Chair area
+- **Skier's Right (Furano Zone)**
+    - Various sustained lines dropping into drainage
+    - Return via goat-track along drainage (passes large concrete dam)
+    - Longer hike out but quality powder
+    - Less tracked than Link Chair area
 
-3. **Premium Zone** (if open)
-   - Steepest terrain, left ungroomed
-   - Powder paradise after fresh snow
-   - Check daily status (often closed)
+- **Premium Zone** (if open)
+    - Steepest terrain, left ungroomed
+    - Powder paradise after fresh snow
+    - Check daily status (often closed)
 
 ### Powder Strategy
 - ⚠️ **Growing popularity** (Ikon Pass + international visitors)
@@ -134,25 +134,25 @@
 
 ### Furano Zone (Ropeway Base)
 
-1. **Ramen Restaurant "Hokkaido Tomikawa"** (Ropeway Base Station)
-   - ⭐ **Best bet** — branch of famous Furano ramen shop
-   - Wide variety of ramen
-   - Table and counter seats
-   - Quick service
+- **Ramen Restaurant "Hokkaido Tomikawa"** (Ropeway Base Station)
+    - ⭐ **Best bet** — branch of famous Furano ramen shop
+    - Wide variety of ramen
+    - Table and counter seats
+    - Quick service
 
-2. **Restaurant Downhill** (Near Ropeway Station)
-   - Casual log house-style
-   - Standard ski cafeteria fare
+- **Restaurant Downhill** (Near Ropeway Station)
+    - Casual log house-style
+    - Standard ski cafeteria fare
 
 ### Kitanomine Zone (Gondola Terminal)
 
-3. **"Ezo no Ajidokoro Cise"** (2F Gondola Terminal)
-   - Local Furano gourmet
-   - Regional specialties
+- **"Ezo no Ajidokoro Cise"** (2F Gondola Terminal)
+    - Local Furano gourmet
+    - Regional specialties
 
-4. **"Furano Curry Jam"** (1F Gondola Terminal)
-   - Branch of famous Furano curry restaurant
-   - Wide variety of curry dishes
+- **"Furano Curry Jam"** (1F Gondola Terminal)
+    - Branch of famous Furano curry restaurant
+    - Wide variety of curry dishes
 
 ### STRATEGY
 - **Limited options = pack snacks** (onigiri from conbini)
@@ -235,26 +235,26 @@ Feb 4 = Regular Season (Dec 6, 2025 - Mar 22, 2026)
 
 ### 🛁 Onsen (Tokachidake Area — ~40min from Furano)
 
-1. **Fukiage Roten-no-yu** 🌟
-   - **Distance:** 40min drive from Furano (Mt Tokachidake)
-   - **Why visit:** FREE, 24-hour, outdoor-only, in the woods
-   - **Type:** Mixed gender (bring bathing suit if shy)
-   - **Vibe:** Wild onsen under the stars, no artificial lighting
-   - **Time needed:** 30-60 minutes
-   - **Perfect for:** After-ski dip before driving to Asahikawa
+- **Fukiage Roten-no-yu** 🌟
+    - **Distance:** 40min drive from Furano (Mt Tokachidake)
+    - **Why visit:** FREE, 24-hour, outdoor-only, in the woods
+    - **Type:** Mixed gender (bring bathing suit if shy)
+    - **Vibe:** Wild onsen under the stars, no artificial lighting
+    - **Time needed:** 30-60 minutes
+    - **Perfect for:** After-ski dip before driving to Asahikawa
 
-2. **Hakuginsou Hot Spring Centre**
-   - **Distance:** 40min from Furano (Fukiage Onsen area)
-   - **Why visit:** 12 baths (male/female/mixed outdoor areas)
-   - **Features:** Sauna, family-friendly mixed zones
-   - **Time needed:** 1-2 hours
+- **Hakuginsou Hot Spring Centre**
+    - **Distance:** 40min from Furano (Fukiage Onsen area)
+    - **Why visit:** 12 baths (male/female/mixed outdoor areas)
+    - **Features:** Sauna, family-friendly mixed zones
+    - **Time needed:** 1-2 hours
 
-3. **Ryounkaku Onsen**
-   - **Distance:** 40min from Furano
-   - **Why visit:** 1,280m elevation, clifftop location, panoramic Tokachi volcano views
-   - **Features:** Red-brown water, outdoor + indoor baths, sauna
-   - **Vibe:** Dramatic high-altitude onsen experience
-   - **Time needed:** 1-2 hours
+- **Ryounkaku Onsen**
+    - **Distance:** 40min from Furano
+    - **Why visit:** 1,280m elevation, clifftop location, panoramic Tokachi volcano views
+    - **Features:** Red-brown water, outdoor + indoor baths, sauna
+    - **Vibe:** Dramatic high-altitude onsen experience
+    - **Time needed:** 1-2 hours
 
 ### 🍺 Hop Kotan Brewing (Kamifurano)
 **Distance:** ~20min from Furano Ski Resort (in Kamifurano town)  

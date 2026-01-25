@@ -69,22 +69,22 @@ Despite the ban, the tree skiing here is legendary among powder freaks:
 
 ### Why Powder Freaks Drive Here
 
-1. **Extreme cold = best snow quality**
-   - Horokanai winter avg: -13°C
-   - Dec 31, 2020: -32.6°C recorded
-   - Record low: -41.2°C (coldest in Japan)
-   - Snow is bone-dry, zero moisture
+- **Extreme cold = best snow quality**
+    - Horokanai winter avg: -13°C
+    - Dec 31, 2020: -32.6°C recorded
+    - Record low: -41.2°C (coldest in Japan)
+    - Snow is bone-dry, zero moisture
 
-2. **Heavy snowfall**
-   - ~13m annual average
-   - 2015: 120cm fell in ONE DAY
-   - 2018: 326cm max depth recorded
-   - Special Heavy Snowfall Designated Area
+- **Heavy snowfall**
+    - ~13m annual average
+    - 2015: 120cm fell in ONE DAY
+    - 2018: 326cm max depth recorded
+    - Special Heavy Snowfall Designated Area
 
-3. **Low competition**
-   - Local town population: 1,500 people
-   - Even on powder days, rarely crowded
-   - 7-8 people total on spring weekdays (per Mojane report)
+- **Low competition**
+    - Local town population: 1,500 people
+    - Even on powder days, rarely crowded
+    - 7-8 people total on spring weekdays (per Mojane report)
 
 ### Best Strategy for Feb 11
 
@@ -181,18 +181,18 @@ Nothing! It's only 4 runs, ski them all.
 If you finish skiing early (or resort closes at 15:45), drive into Horokanai town (2km) for authentic buckwheat noodles:
 
 **Recommended shops:**
-1. **Horokanai Soba Setsugekka** (そば雪月花)
-   - Tabelog listed
-   - Uses local stone-ground flour
+- **Horokanai Soba Setsugekka** (そば雪月花)
+    - Tabelog listed
+    - Uses local stone-ground flour
    
-2. **Hachiemon** (八右衛門)
-   - Handmade soba specialist
-   - Two types: nihachi-soba (80% buckwheat) and jyuwari (100% buckwheat)
-   - Tempura + soba combo highly recommended
+- **Hachiemon** (八右衛門)
+    - Handmade soba specialist
+    - Two types: nihachi-soba (80% buckwheat) and jyuwari (100% buckwheat)
+    - Tempura + soba combo highly recommended
 
-3. **Michi-no-Eki Soba Restaurant** (at roadside station)
-   - Convenient on route
-   - See "Nearby Attractions" below
+- **Michi-no-Eki Soba Restaurant** (at roadside station)
+    - Convenient on route
+    - See "Nearby Attractions" below
 
 ---
 

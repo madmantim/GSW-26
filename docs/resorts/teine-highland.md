@@ -83,24 +83,24 @@
 
 ### Best In-Bounds Tree Zones (Snowboarder-Friendly)
 
-1. **Nature Zone** (permitted off-piste, skier's right)
-   - **Perfect tree spacing for boards**
-   - Wide enough to carve, tight enough to be fun
-   - North-facing aspect = cold, dry snow
-   - Feeds back to Highland lifts
-   - Gets tracked by lunch on powder days (but still good)
+- **Nature Zone** (permitted off-piste, skier's right)
+    - **Perfect tree spacing for boards**
+    - Wide enough to carve, tight enough to be fun
+    - North-facing aspect = cold, dry snow
+    - Feeds back to Highland lifts
+    - Gets tracked by lunch on powder days (but still good)
 
-2. **Trees under Kitakabe Course**
-   - Midway down the "north wall" black run
-   - Widely spaced
-   - Steep sections (matching the 36° groomed run)
-   - Access via Summit Express
+- **Trees under Kitakabe Course**
+    - Midway down the "north wall" black run
+    - Widely spaced
+    - Steep sections (matching the 36° groomed run)
+    - Access via Summit Express
 
-3. **Olympic Slalom/GS Courses** (when left ungroomed)
-   - Historic runs from 1972 Olympics
-   - Technical terrain, good pitch
-   - Bumps develop quickly
-   - Great for leg burners
+- **Olympic Slalom/GS Courses** (when left ungroomed)
+    - Historic runs from 1972 Olympics
+    - Technical terrain, good pitch
+    - Bumps develop quickly
+    - Great for leg burners
 
 ### Powder Strategy
 - **Arrive EARLY** — 20min from Sapporo = day-trippers arrive fast
@@ -144,28 +144,28 @@
 
 ### LUNCH (Best Options at Highland)
 
-1. **SKADI** (Highland Ski Center, 4F) ⭐ **TOP PICK**
-   - 650 seats (huge!)
-   - Ramen with custom Hokkaido wheat noodles + house umami broth
-   - Soba, rice bowls, pasta, curry
-   - "Redefines ski resort food" (per official site)
-   - Accepts credit cards
-   - **Hours:** 10:00-17:00 (LO 16:30)
+- **SKADI** (Highland Ski Center, 4F) ⭐ **TOP PICK**
+    - 650 seats (huge!)
+    - Ramen with custom Hokkaido wheat noodles + house umami broth
+    - Soba, rice bowls, pasta, curry
+    - "Redefines ski resort food" (per official site)
+    - Accepts credit cards
+    - **Hours:** 10:00-17:00 (LO 16:30)
 
-2. **Hot Café 1023** (Near Summit)
-   - Scenic café with views over Sapporo + Ishikari Bay
-   - Light café fare
-   - **Limited hours:** 10:00-15:00
-   - ⚠️ Not accessible to non-skiers (lift ticket required)
-   - **Only 50 seats** — grab a spot if weather is clear!
+- **Hot Café 1023** (Near Summit)
+    - Scenic café with views over Sapporo + Ishikari Bay
+    - Light café fare
+    - **Limited hours:** 10:00-15:00
+    - ⚠️ Not accessible to non-skiers (lift ticket required)
+    - **Only 50 seats** — grab a spot if weather is clear!
 
-3. **K-Lounge** (Highland Ski Center, 3F) — Premium option
-   - Paid lounge (¥2,000 adult, ¥1,500 child)
-   - Boots-off relaxation
-   - Free soft drinks + coffee
-   - Re-entry allowed all day
-   - Quiet escape from cafeteria crowds
-   - 40 seats
+- **K-Lounge** (Highland Ski Center, 3F) — Premium option
+    - Paid lounge (¥2,000 adult, ¥1,500 child)
+    - Boots-off relaxation
+    - Free soft drinks + coffee
+    - Re-entry allowed all day
+    - Quiet escape from cafeteria crowds
+    - 40 seats
 
 ### OLYMPIA ZONE OPTIONS (if you end up there)
 - **ULLR Restaurant** (Olympia Ski Center, 3F) — 250 seats, specialty pizza

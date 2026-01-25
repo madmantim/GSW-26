@@ -82,21 +82,21 @@ Official tree run areas (marked on trail map):
 ### Best Tree Zones (Snowboarder-Friendly)
 Based on official map + specialist reports:
 
-1. **Tree Run Area III** (newest, opened June 2025)
-   - Freshest addition to the resort
-   - Likely less tracked than Areas I & II
-   - Check signage for specific access points
+- **Tree Run Area III** (newest, opened June 2025)
+    - Freshest addition to the resort
+    - Likely less tracked than Areas I & II
+    - Check signage for specific access points
 
-2. **1,400m Tree Run** (one of Areas I-III)
-   - Longest in-bounds tree run in Hokkaido
-   - Significant vertical descent
-   - Feeds back to lifts
-   - ⚠️ Note early closure time (3pm)
+- **1,400m Tree Run** (one of Areas I-III)
+    - Longest in-bounds tree run in Hokkaido
+    - Significant vertical descent
+    - Feeds back to lifts
+    - ⚠️ Note early closure time (3pm)
 
-3. **Free Area (フリーエリア)**
-   - Ungroomed natural terrain
-   - More flexibility than numbered areas
-   - Operates until 3:20pm (latest of tree zones)
+- **Free Area (フリーエリア)**
+    - Ungroomed natural terrain
+    - More flexibility than numbered areas
+    - Operates until 3:20pm (latest of tree zones)
 
 ### Powder Strategy
 - ✅ **Uncrowded = fresh tracks last longer** (only 30,000 people in entire city!)
@@ -147,20 +147,20 @@ Based on official map + specialist reports:
 ⭐ **Top value in Hokkaido** — dirt-cheap prices!
 
 **Recommended Dishes:**
-1. **Ramen (味噌・塩・醤油)** — ¥850  
-   - Miso, salt, or soy sauce varieties
-   - Classic warming ski lunch
+- **Ramen (味噌・塩・醤油)** — ¥850  
+    - Miso, salt, or soy sauce varieties
+    - Classic warming ski lunch
 
-2. **Katsu Curry** — ¥1,300  
-   - Perfect hearty meal after cold morning laps
+- **Katsu Curry** — ¥1,300  
+    - Perfect hearty meal after cold morning laps
 
-3. **Chashu-don (味噌汁付)** — ¥950  
-   - Pork rice bowl with miso soup
-   - Good value, filling
+- **Chashu-don (味噌汁付)** — ¥950  
+    - Pork rice bowl with miso soup
+    - Good value, filling
 
-4. **本マグロ丼** — ¥1,700  
-   - Bluefin tuna bowl (premium option)
-   - Fresh seafood surprise at a ski resort!
+- **本マグロ丼** — ¥1,700  
+    - Bluefin tuna bowl (premium option)
+    - Fresh seafood surprise at a ski resort!
 
 **Budget Options:**
 - Kake soba/udon — ¥650
@@ -359,14 +359,14 @@ Based on official map + specialist reports:
 - **Cultural immersion** = real Japan, not tourist resort
 
 ### Recommendations
-1. **Hit tree runs early** (close at 3pm)
-2. **Dress for -25°C** (coldest day of trip)
-3. **Take warming breaks** at Log Panorama
-4. **Try the cheap ramen** (¥850 vs ¥1,400 at Kiroro)
-5. **Use the onsen daily** (it's included!)
-6. **Visit observatory if clear** (evening after skiing)
-7. **Embrace the local vibe** (minimal English = authentic experience)
-8. **Document the 1,400m tree run** (unique to Hokkaido)
+- **Hit tree runs early** (close at 3pm)
+- **Dress for -25°C** (coldest day of trip)
+- **Take warming breaks** at Log Panorama
+- **Try the cheap ramen** (¥850 vs ¥1,400 at Kiroro)
+- **Use the onsen daily** (it's included!)
+- **Visit observatory if clear** (evening after skiing)
+- **Embrace the local vibe** (minimal English = authentic experience)
+- **Document the 1,400m tree run** (unique to Hokkaido)
 
 ---
 
