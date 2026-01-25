@@ -8,8 +8,8 @@
 
 ## Quick Links
 
-- 📅 [Daily Itinerary](#daily-itinerary) — Day-by-day plans
-- 🎿 [Resorts](#resorts) — All resort profiles
+- 📅 [Daily Itinerary](days/2026-01-28-arrival.md) — Day-by-day plans
+- 🎿 [Resorts](resorts/teine-highland.md) — All resort profiles
 - 🏨 Hotels — WBF Sapporo → Tomamu → Court Asahikawa → Nayoro Onsen → WBF Sapporo
 
 ---
