@@ -54,8 +54,7 @@ Night 2 of 5
 
 ## Attractions / Activities
 
-_Recommendations:_
-- [ ] [Asahidake Onsen](https://maps.google.com/?q=Asahidake+Onsen) — Hot springs at base of ropeway, perfect après-ski
+- [Asahidake Onsen](https://maps.google.com/?q=Asahidake+Onsen) — Hot springs at base of ropeway, perfect après-ski
 
 ---
 

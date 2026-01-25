@@ -46,14 +46,14 @@ Time to go home. Until next time, Hokkaido! 🎿
 
 ## Tasks
 
-- [ ] Check out Hotel WBF by 10:00
-- [ ] Final luggage pack (ski gear!)
-- [ ] Drive to CTS Airport
-- [ ] Return rental car (Tim)
-- [ ] Check in for flights
-- [ ] Last-minute omiyage (souvenirs) at airport
-- [ ] Eat final Hokkaido ramen at airport
-- [ ] Board flights home
+- Check out Hotel WBF by 10:00
+- Final luggage pack (ski gear!)
+- Drive to CTS Airport
+- Return rental car (Tim)
+- Check in for flights
+- Last-minute omiyage (souvenirs) at airport
+- Eat final Hokkaido ramen at airport
+- Board flights home
 
 ---
 
@@ -68,11 +68,11 @@ None — flying home!
 _15 ski days complete. Memories made. See you next trip GSW crew!_
 
 _Trip highlights:_
-- [ ] Best powder day:
-- [ ] Best meal:
-- [ ] Best onsen:
-- [ ] Funniest moment:
-- [ ] Most memorable run:
+- Best powder day:
+- Best meal:
+- Best onsen:
+- Funniest moment:
+- Most memorable run:
 
 ---
 
