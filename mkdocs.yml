@@ -32,23 +32,23 @@ plugins:
 nav:
   - Home: index.md
   - Daily Itinerary:
-    - Jan 28 - Arrival: days/day-01-arrival.md
-    - Jan 29 - Teine Highland: days/day-02-teine.md
-    - Jan 30 - Sapporo Kokusai: days/day-03-kokusai.md
-    - Jan 31 - Kiroro: days/day-04-kiroro.md
-    - Feb 1 - Mount Racey: days/day-05-racey.md
-    - Feb 2 - Tomamu: days/day-06-tomamu.md
-    - Feb 3 - Sahoro: days/day-07-sahoro.md
-    - Feb 4 - Furano: days/day-08-furano.md
-    - Feb 5 - Asahidake: days/day-09-asahidake.md
-    - Feb 6 - Kurodake: days/day-10-kurodake.md
-    - Feb 7 - Kamui: days/day-11-kamui.md
-    - Feb 8 - Pippu: days/day-12-pippu.md
-    - Feb 9 - Wassamu: days/day-13-wassamu.md
-    - Feb 10 - Nayoro: days/day-14-nayoro.md
-    - Feb 11 - Horotachi: days/day-15-horotachi.md
-    - Feb 12 - Transit: days/day-16-transit.md
-    - Feb 13 - Departure: days/day-17-departure.md
+    - Jan 28 — Arrival: days/2026-01-28-arrival.md
+    - Jan 29 — Teine: days/2026-01-29-teine.md
+    - Jan 30 — Kokusai: days/2026-01-30-kokusai.md
+    - Jan 31 — Kiroro: days/2026-01-31-kiroro.md
+    - Feb 1 — Mount Racey: days/2026-02-01-racey.md
+    - Feb 2 — Tomamu: days/2026-02-02-tomamu.md
+    - Feb 3 — Sahoro: days/2026-02-03-sahoro.md
+    - Feb 4 — Furano: days/2026-02-04-furano.md
+    - Feb 5 — Asahidake: days/2026-02-05-asahidake.md
+    - Feb 6 — Kurodake: days/2026-02-06-kurodake.md
+    - Feb 7 — Kamui: days/2026-02-07-kamui.md
+    - Feb 8 — Pippu: days/2026-02-08-pippu.md
+    - Feb 9 — Wassamu: days/2026-02-09-wassamu.md
+    - Feb 10 — Nayoro: days/2026-02-10-nayoro.md
+    - Feb 11 — Horotachi: days/2026-02-11-horotachi.md
+    - Feb 12 — Transit: days/2026-02-12-transit.md
+    - Feb 13 — Departure: days/2026-02-13-departure.md
   - Resorts:
     - Teine Highland: resorts/teine-highland.md
     - Sapporo Kokusai: resorts/sapporo-kokusai.md

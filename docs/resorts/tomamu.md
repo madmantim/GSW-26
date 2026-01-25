@@ -100,14 +100,10 @@
 🏔️ **The real goods at Tomamu are OUTSIDE the ropes**
 
 **Powder game plan:**
-
-**1. Early AM:** Hit sidecountry gates FIRST (top gate = best powder, north-facing aspect)
-
-**2. Mid-morning:** Work the designated off-piste zones (trees on Tomamu Mountain side)
-
-**3. Afternoon:** If sunny, avoid Tower Mountain front side (south-facing, gets baked)
-
-**4. Powder days:** Tower Mountain trees are wide and fun, but quality drops faster in sun
+1. **Early AM:** Hit sidecountry gates FIRST (top gate = best powder, north-facing aspect)
+2. **Mid-morning:** Work the designated off-piste zones (trees on Tomamu Mountain side)
+3. **Afternoon:** If sunny, avoid Tower Mountain front side (south-facing, gets baked)
+4. **Powder days:** Tower Mountain trees are wide and fun, but quality drops faster in sun
 
 ### Snowboarder-Specific Beta
 - ✅ Tree spacing is generally good (well-gladed)
@@ -166,31 +162,26 @@ Tomamu has **20+ restaurants** across the resort. Here are the best ON-MOUNTAIN 
 
 ### LUNCH — Top Picks
 
-
-**1. Mt. CAFE SOL** (On Mountain)
+1. **Mt. CAFE SOL** (On Mountain)
    - ⭐ **Best for:** Quick refuel, mountain views
    - Location: On Tower Mountain
    - Good coffee, light meals
 
-
-**2. WAN-HACHI** (Resort Center)
+2. **WAN-HACHI** (Resort Center)
    - ⭐ **Best for:** Udon & rice balls (quick, filling)
    - Location: Base of gondola (Tomamu Mountain side)
    - Classic Japanese comfort food
 
-
-**3. EBISU SHOTEN** (Resort Center)
+3. **EBISU SHOTEN** (Resort Center)
    - Ramen shop
    - Good for cold days
    - Quick service
 
-
-**4. KAITAKUMIN** (Resort Center)
+4. **KAITAKUMIN** (Resort Center)
    - Hokkaido pork bowl (famous dish)
    - Filling, authentic
 
-
-**5. BISTARAI SATHI** (Resort Center)
+5. **BISTARAI SATHI** (Resort Center)
    - Curry (Japanese ski area staple)
    - Warming, good value
 
@@ -208,35 +199,29 @@ Since we're staying on-site, we have access to all resort restaurants:
 
 ### DINNER — Reservations Recommended
 
-
-**1. OTTO SETTE TOMAMU** (Risonare/Village Alpha)
+1. **OTTO SETTE TOMAMU** (Risonare/Village Alpha)
    - ⭐ **Top pick** — Italian, high-end
    - **Booked for our group on Feb 2 at 18:30** ✅
    - Reservation required
 
-
-**2. HAL** (Tomamu The Tower)
+2. **HAL** (Tomamu The Tower)
    - Buffet, in our hotel
    - Dinner requires reservation
    - Convenient
 
-
-**3. MIKAKU** (Tomamu The Tower)
+3. **MIKAKU** (Tomamu The Tower)
    - Buffet, in our hotel
    - Walk-in available
 
-
-**4. CAMARO Steak Diner** (Hotalu Street)
+4. **CAMARO Steak Diner** (Hotalu Street)
    - Steakhouse
    - Fun casual vibe
 
-
-**5. RAMEN TAKEZO** (Hotalu Street)
+5. **RAMEN TAKEZO** (Hotalu Street)
    - Ramen
    - Good for late/casual dinner
 
-
-**6. GARAKU** (Hotalu Street)
+6. **GARAKU** (Hotalu Street)
    - Soup curry (Hokkaido specialty)
 
 ### BARS & APRÈS

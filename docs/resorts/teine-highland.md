@@ -21,7 +21,7 @@
 
 **Base:** Hotel WBF Sapporo Chuo (Central Sapporo)  
 **Distance:** ~20km  
-**Travel time:** ~30-40 minutes  
+**Travel time:** 40-45 minutes  
 **Route:** Central Sapporo → Route 5 (northwest) → Teine IC → Local roads to Highland  
 **Google Maps:** [View route](https://www.google.com/maps/dir/Hotel+WBF+Sapporo+Chuo,+Sapporo/Sapporo+Teine+Highland,+Teine-ku,+Sapporo)
 
@@ -83,23 +83,20 @@
 
 ### Best In-Bounds Tree Zones (Snowboarder-Friendly)
 
-
-**1. Nature Zone** (permitted off-piste, skier's right)
+1. **Nature Zone** (permitted off-piste, skier's right)
    - **Perfect tree spacing for boards**
    - Wide enough to carve, tight enough to be fun
    - North-facing aspect = cold, dry snow
    - Feeds back to Highland lifts
    - Gets tracked by lunch on powder days (but still good)
 
-
-**2. Trees under Kitakabe Course**
+2. **Trees under Kitakabe Course**
    - Midway down the "north wall" black run
    - Widely spaced
    - Steep sections (matching the 36° groomed run)
    - Access via Summit Express
 
-
-**3. Olympic Slalom/GS Courses** (when left ungroomed)
+3. **Olympic Slalom/GS Courses** (when left ungroomed)
    - Historic runs from 1972 Olympics
    - Technical terrain, good pitch
    - Bumps develop quickly
@@ -147,8 +144,7 @@
 
 ### LUNCH (Best Options at Highland)
 
-
-**1. SKADI** (Highland Ski Center, 4F) ⭐ **TOP PICK**
+1. **SKADI** (Highland Ski Center, 4F) ⭐ **TOP PICK**
    - 650 seats (huge!)
    - Ramen with custom Hokkaido wheat noodles + house umami broth
    - Soba, rice bowls, pasta, curry
@@ -156,16 +152,14 @@
    - Accepts credit cards
    - **Hours:** 10:00-17:00 (LO 16:30)
 
-
-**2. Hot Café 1023** (Near Summit)
+2. **Hot Café 1023** (Near Summit)
    - Scenic café with views over Sapporo + Ishikari Bay
    - Light café fare
    - **Limited hours:** 10:00-15:00
    - ⚠️ Not accessible to non-skiers (lift ticket required)
    - **Only 50 seats** — grab a spot if weather is clear!
 
-
-**3. K-Lounge** (Highland Ski Center, 3F) — Premium option
+3. **K-Lounge** (Highland Ski Center, 3F) — Premium option
    - Paid lounge (¥2,000 adult, ¥1,500 child)
    - Boots-off relaxation
    - Free soft drinks + coffee

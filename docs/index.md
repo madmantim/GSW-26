@@ -1,49 +1,34 @@
-# GSW 2026 Hokkaido
+# GSW 2026 Hokkaido 🎿
 
-**January 28 - February 13, 2026**  
-**17 days • 14 ski days • 13 resorts**
+**17 days | 15 ski resorts | 9 mates | 1 epic trip**
 
-From Sapporo's urban peaks to the remote powder fields of the deep north.
+📅 **Jan 28 - Feb 13, 2026**
 
 ---
 
-## The Itinerary
+## Quick Links
 
-**Sapporo Region** (Jan 29-31 • 3 days)
-- Teine Highland — Hokkaido's steepest terrain
-- Sapporo Kokusai — Local favorite, 16m snowfall
-- Kiroro — 21m legendary powder
-
-**Central Hokkaido** (Feb 1-4 • 4 days)
-- Mount Racey → Tomamu → Sahoro → Furano
-
-**Daisetsuzan Mountains** (Feb 5-8 • 4 days)
-- Asahidake (1,600m ropeway) → Kurodake → Kamui → Pippu
-
-**Deep North** (Feb 9-11 • 3 days)
-- Wassamu → Nayoro Piyashiri → Horotachi
+- 📅 [Daily Itinerary](#daily-itinerary) — Day-by-day plans
+- 🎿 [Resorts](#resorts) — All resort profiles
+- 🏨 Hotels — WBF Sapporo → Tomamu → Court Asahikawa → Nayoro Onsen → WBF Sapporo
 
 ---
 
 ## The Crew
 
-9 people | 2 Nissan Serenas | 17 days of adventure
+Tim, Trevor, Declan, JP, Gus, Robbo, Graeme, Justin, Cardy
 
 ---
 
-## Using This Site
+## Trip at a Glance
 
-Click **Resorts** above to browse detailed profiles for each resort including:
-
-- Terrain breakdown & powder zones
-- Lift pass pricing
-- On-mountain food recommendations
-- Nearby onsen & attractions
-- Snowboarder-specific beta
-- Weather gotchas
-
-All profiles researched and compiled for this specific trip.
+| Week | Base | Resorts |
+|------|------|---------|
+| 1 | Sapporo | Teine, Kokusai, Kiroro |
+| 2 | Tomamu | Racey, Tomamu, Sahoro |
+| 3 | Asahikawa | Furano, Asahidake, Kurodake, Kamui, Pippu |
+| 4 | Nayoro | Wassamu, Nayoro, Horotachi |
 
 ---
 
-*Built by Sugi 🎿 • GSW Trip Concierge*
+**Let's go!** ❄️
