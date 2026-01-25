@@ -20,7 +20,7 @@
 - Highlight: National-run resort, extremely uncrowded, powder stashes
 - [📍 Google Maps](https://maps.google.com/?q=Horotachi+Ski+Resort+Hokkaido)
 
-→ [Full Resort Profile](../resort-profiles/horotachi.md)
+→ [Full Resort Profile](../resorts/horotachi.md)
 
 ---
 
