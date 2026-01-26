@@ -4,6 +4,7 @@ repo_url: https://github.com/madmantim/GSW-26
 
 theme:
   name: material
+  custom_dir: overrides
   palette:
     # Light mode
     - scheme: default
@@ -25,6 +26,12 @@ theme:
     - navigation.sections
     - navigation.top
     - search.suggest
+  icon:
+    logo: material/snowflake
+  favicon: assets/images/icon-192.png
+
+extra:
+  manifest: manifest.json
 
 plugins:
   - search
