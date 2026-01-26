@@ -20,7 +20,7 @@
 - Highlight: Highest mountain in Hokkaido, raw backcountry terrain, volcanic scenery
 - [📍 Google Maps](https://maps.google.com/?q=Asahidake+Ropeway)
 
-→ [Full Resort Profile](../resorts/asahidake.md)
+→ [Full Resort Profile](../resort-profiles/asahidake.md)
 
 **⚠️ Weather dependent:** Ropeway closes in high winds/storms. Check morning conditions.
 
