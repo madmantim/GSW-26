@@ -13,6 +13,7 @@
 - **Vertical:** 500m (ropeway accessed)
 - **Top elevation:** 1,600m (highest lift-access in Hokkaido)
 - **Season:** Mid-December to early May
+- **Trail Map:** [View Map](https://www.snow-forecast.com/resorts/Asahidake/pistemap)
 - **Best for:** Advanced/expert powder hunters who love tree skiing and backcountry
 - **NOT for:** Beginners, intermediates, or anyone who won't ride off-piste
 

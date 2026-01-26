@@ -13,6 +13,7 @@
 - **Vertical:** 839m (964m claimed but official is 839m)
 - **Top elevation:** 1,074m
 - **Base elevation:** 235m
+- **Trail Map:** [Download PDF](https://www.princehotels.com/en/ski/furano/mountain_map.pdf)
 - **Best for:** Long groomed runs, tree skiing, sidecountry powder
 - **Season:** Late November to early May (Nov 29, 2025 - May 6, 2026)
 - **Ikon Pass:** Included from 2025-26 season (7 days on full pass)

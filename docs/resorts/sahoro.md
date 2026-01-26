@@ -13,6 +13,7 @@
 - **Top elevation:** 1,030m
 - **Best for:** Intermediates, families, uncrowded groomers, tree skiing
 - **Vibe:** Quiet, polished, Tokachi Plains views
+- **Trail Map:** [View Map](https://www.skiresort.info/ski-resort/sahoro/trail-map/)
 
 ---
 

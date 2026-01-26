@@ -13,6 +13,7 @@
 - **Annual snowfall:** Not measured (moderate, typical for Northern Hokkaido)
 - **Season:** Early December to mid-March
 - **Best for:** Local gem vibes, untouched powder late in the day, low crowds
+- **Trail Map:** [View Map](https://www.skiresort.info/ski-resort/wassamu/trail-map/)
 - **Max gradient:** 30 degrees (on-piste)
 
 ---

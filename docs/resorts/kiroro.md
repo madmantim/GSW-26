@@ -13,6 +13,7 @@
 - **Vertical:** 610m
 - **Top elevation:** 1,180m
 - **Best for:** Tree skiing, powder stashes, off-piste terrain
+- **Trail Map:** [Download PDF](https://www.kiroro.co.jp/kirorodownload/snow-world-trail-map-pdf/)
 
 ---
 

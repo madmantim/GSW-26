@@ -13,6 +13,7 @@
 - **Vertical:** 408m (1,326 ft)
 - **Elevation:** 294m base, 702m summit
 - **Best for:** Tree skiing, powder stashes, uncrowded runs, stormy-day backup
+- **Trail Map:** [View Map](https://snowstash.com/japan/hokkaido/mount-racey/trail-map)
 
 ---
 

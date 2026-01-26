@@ -13,6 +13,7 @@
 - **Vertical:** 330m
 - **Elevation:** 250-580m
 - **Best for:** Recovery skiing, off-piste practice, empty slopes, dirt-cheap skiing
+- **Trail Map:** [View Map](https://www.snow-forecast.com/resorts/Pippu/pistemap)
 
 ---
 

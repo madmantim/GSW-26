@@ -13,6 +13,7 @@
 - **Vertical:** 850m (ropeway + chairlift: 670m-1,520m) / 1,314m to summit (1,984m via skinning)
 - **Top elevation:** 1,984m (Mt. Kurodake summit)
 - **Best for:** Extreme steep terrain, cliffs, chutes, technical tree skiing, backcountry
+- **Trail Map:** [View Map](https://www.snow-forecast.com/resorts/DaisetsuzanKurodake/pistemap)
 
 ---
 

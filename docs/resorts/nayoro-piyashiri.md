@@ -13,6 +13,7 @@
 - **Vertical:** 480m
 - **Top elevation:** 673m
 - **Base elevation:** 193m
+- **Trail Map:** [View Map](https://www.snow-forecast.com/resorts/NayoroPiyashiri/pistemap)
 - **Best for:** Remote powder stashes, tree runs, uncrowded terrain, authentic local experience
 - **Unique claim:** "Best snow quality in Hokkaido" — "silky snow" created by extreme cold (-30°C)
 

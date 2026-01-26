@@ -13,6 +13,7 @@
 - **Top elevation:** 751m
 - **Best for:** Powder hunting, tree skiing, uncrowded off-piste, budget skiing
 - **Season:** December 13 - March 31
+- **Trail Map:** [View Map](https://www.skiresort.info/ski-resort/kamui-ski-links/trail-map/)
 - **Operating hours:** 9:00am - 4:00pm daily
 
 ---

@@ -14,6 +14,7 @@
 - **Top elevation:** 1,023m (Mt. Teine summit)
 - **Best for:** Steep in-bounds terrain, sidecountry/backcountry access, tree skiing
 - **Season:** Nov 22, 2025 - May 6, 2026 (Highland Zone); weekends/holidays only after April 6
+- **Trail Map:** [Download PDF](https://sapporo-teine.com/snow/lang/en/files/course_map.pdf)
 
 ---
 

@@ -13,6 +13,7 @@
 - **Vertical:** 217m (150m - 367m elevation)
 - **Top elevation:** 367m
 - **Best for:** Powder gem, local vibe, steep terrain for advanced riders
+- **Trail Map:** [View Map](https://www.snow-forecast.com/resorts/Horotachi/pistemap)
 - **Season:** Mid-Dec to late March (sporadic from late Feb onward — check before going!)
 
 ---

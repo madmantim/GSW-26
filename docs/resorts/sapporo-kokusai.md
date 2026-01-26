@@ -13,6 +13,7 @@
 - **Vertical:** 470m (630m - 1,100m elevation)
 - **Top elevation:** 1,100m
 - **Best for:** Tree skiing, powder stashes, backcountry access, local vibe
+- **Trail Map:** [View Map](https://snowstash.com/japan/hokkaido/sapporo-kokusai/trail-map)
 
 ---
 

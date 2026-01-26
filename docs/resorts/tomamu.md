@@ -13,6 +13,7 @@
 - **Vertical:** 585m
 - **Top elevation:** 1,171m
 - **Base elevation:** 586m
+- **Trail Map:** [Download PDF](https://www.skijapan.com/wp-content/uploads/2024/07/tomamu-trail-map2021-en_compressed.pdf)
 - **Longest run:** 4,200m (Silver Bell → Beginner's Choice)
 - **Best for:** Tree skiing, sidecountry/backcountry access, upmarket family experience
 - **Unique attractions:** Ice Village (nightly winter wonderland), Terrace of Frosted Tree
