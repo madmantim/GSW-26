@@ -1,6 +1,5 @@
-# WASSAMU HIGASHIYAMA SKI AREA — February 9, 2026
+# WASSAMU HIGASHIYAMA SKI AREA
 
-**Date:** Mon, Feb 9 (Drive to Nayoro after — onsen dinner awaits!)  
 **Base:** Court Hotel Asahikawa
 
 ---

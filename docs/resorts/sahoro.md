@@ -1,6 +1,5 @@
-# SAHORO RESORT — February 3, 2026
+# SAHORO RESORT
 
-**Date:** Tue, Feb 3  
 **Base:** Tomamu The Tower (Hoshino Resorts)
 
 ---

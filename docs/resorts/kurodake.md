@@ -1,6 +1,5 @@
-# KURODAKE — February 6, 2026
+# KURODAKE
 
-**Date:** Fri, Feb 6 (Weather dependent!)  
 **Base:** Court Hotel Asahikawa
 
 ---

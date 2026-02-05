@@ -1,6 +1,5 @@
-# MOUNT RACEY (YUBARI RESORT) — February 1, 2026
+# MOUNT RACEY (YUBARI RESORT)
 
-**Date:** Sun, Feb 1 (Quick morning session before drive to Asahikawa)  
 **Base:** Tomamu The Tower (checking out after skiing)
 
 ---

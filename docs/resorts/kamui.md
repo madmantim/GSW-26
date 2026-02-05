@@ -1,6 +1,5 @@
-# KAMUI SKI LINKS — February 7, 2026
+# KAMUI SKI LINKS
 
-**Date:** Sat, Feb 7 (Mid-trip, pure powder hunting mode)  
 **Base:** Court Hotel Asahikawa
 
 ---

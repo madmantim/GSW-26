@@ -1,6 +1,5 @@
-# SAPPORO KOKUSAI SKI RESORT — January 30, 2026
+# SAPPORO KOKUSAI SKI RESORT
 
-**Date:** Fri, Jan 30  
 **Base:** Hotel WBF Sapporo Chuo
 
 ---

@@ -1,6 +1,5 @@
-# PIPPU SKI AREA — February 8, 2026
+# PIPPU SKI AREA
 
-**Date:** Sun, Feb 8 (Recovery day)  
 **Base:** Court Hotel Asahikawa
 
 ---

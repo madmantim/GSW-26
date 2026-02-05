@@ -1,6 +1,5 @@
-# ASAHIDAKE — February 5, 2026
+# ASAHIDAKE
 
-**Date:** Thu, Feb 5  
 **Base:** Court Hotel Asahikawa
 
 ---

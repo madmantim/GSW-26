@@ -1,6 +1,5 @@
-# NAYORO PIYASHIRI — February 10, 2026
+# NAYORO PIYASHIRI
 
-**Date:** Tue, Feb 10 (Day 14 — Deep North expedition)  
 **Base:** Nayoro Onsen Sunpillar (Ski-in/Ski-out!)
 
 ---

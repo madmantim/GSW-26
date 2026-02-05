@@ -1,6 +1,5 @@
-# KOKUSETSU HOROTACHI — February 11, 2026
+# KOKUSETSU HOROTACHI
 
-**Date:** Wed, Feb 11 (Last ski day! 🎿)  
 **Base:** Nayoro Onsen Sunpillar
 
 ---

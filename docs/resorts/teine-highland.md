@@ -1,6 +1,5 @@
-# TEINE HIGHLAND — January 29, 2026
+# TEINE HIGHLAND
 
-**Date:** Thu, Jan 29 (First ski day of the trip!)  
 **Base:** Hotel WBF Sapporo Chuo (Central Sapporo)
 
 ---

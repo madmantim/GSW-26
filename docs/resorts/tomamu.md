@@ -1,6 +1,5 @@
-# HOSHINO TOMAMU — February 2, 2026
+# HOSHINO TOMAMU
 
-**Date:** Mon, Feb 2  
 **Base:** Tomamu The Tower (ON-SITE! Ski-in/ski-out)
 
 ---

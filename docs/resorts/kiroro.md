@@ -1,6 +1,5 @@
-# KIRORO RESORT — January 31, 2026
+# KIRORO RESORT
 
-**Date:** Sat, Jan 31 (Cardy arrives today!)  
 **Base:** Hotel WBF Sapporo Chuo
 
 ---

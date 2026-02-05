@@ -1,6 +1,5 @@
-# FURANO SKI RESORT — February 4, 2026
+# FURANO SKI RESORT
 
-**Date:** Wed, Feb 4 (Morning session then drive to Asahikawa)  
 **Base:** Tomamu The Tower (Hoshino Resorts)
 
 ---
