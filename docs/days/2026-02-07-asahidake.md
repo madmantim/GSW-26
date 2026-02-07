@@ -53,9 +53,13 @@ Night 4 of 5
 
 ## Attractions / Activities
 
-### Asahidake Onsen
-- Hot springs at base of ropeway, perfect après-ski
-- [📍 Google Maps](https://maps.google.com/?q=Asahidake+Onsen)
+### Asahidake Onsen — 湧駒荘「神々の湯」 ♨️ CONFIRMED
+**Yukoman-so "Bath of the Gods"**
+- ⏰ **Plan:** ~15:30-16:30 après-ski soak
+- 💴 ¥1,200/person (towel rental ¥300)
+- 📞 0166-97-2101
+- Hours: 12:00-18:00 (last entry), closes 19:00
+- [📍 Google Maps](https://maps.google.com/?q=43.662463,142.849815)
 
 ### Asahikawa Winter Festival (Night 2)
 
@@ -78,6 +82,12 @@ Night 4 of 5
 ## Notes
 
 _Fresh snow expected overnight Fri-Sat! This is the day to hit Asahidake. Serious mountain — respect the conditions._
+
+**Day plan:**
+- Ski until ~15:00-15:30
+- Onsen at Yukoman-so 15:30-16:30
+- Drive back to Asahikawa ~16:30
+- Dinner at Nikuyoshi 18:30
 
 ---
 
