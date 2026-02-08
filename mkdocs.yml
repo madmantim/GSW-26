@@ -38,6 +38,7 @@ plugins:
 
 nav:
   - Home: index.md
+  - 🇯🇵 Japanese Cheat Sheet: japanese-cheatsheet.md
   - Daily Itinerary:
     - Jan 28 — Arrival: days/2026-01-28-arrival.md
     - Jan 29 — Teine: days/2026-01-29-teine.md
