@@ -99,6 +99,22 @@ Quick phrases for restaurants, shops, and getting around!
 
 ---
 
+## Ojisan Respect Corner 👴✨
+
+*For the distinguished gentlemen of GSW*
+
+| English | Japanese | Say it |
+|---------|----------|--------|
+| I am a respected elder | 私は偉いおじさんです | **Watashi wa erai ojisan desu** |
+| Senior discount? | シニア割引ありますか？ | **Shinia waribiki arimasu ka?** |
+| Respect your elders! | 年上を敬え！ | **Toshiue wo uyamae!** |
+| I'm not old, I'm vintage | 古くない、ヴィンテージです | **Furuku nai, vintēji desu** |
+| Best seat for ojisan | おじさんに一番いい席を | **Ojisan ni ichiban ii seki wo** |
+
+**Pro tip:** In Japan, age = wisdom = respect. Sit back and let the young ones pour your beer, Gus-sama! 🍺🙇
+
+---
+
 ## Pro Tips
 
 - **Point + number + kudasai** = universal ordering formula
