@@ -1,34 +1,34 @@
-# Feb 11 — Horotachi
+# Feb 11 — Nayoro Piyashiri (Return)
 
-**UNTOUCHED NORTHERN POWDER** ❄️
+**BACK BY POPULAR DEMAND** 🎿❄️ — The crew loved it!
 
 ---
 
 ## Overview
 
-> **TLDR:** 30min drive north to Kokusetsu Horotachi. National ski resort, likely untouched powder. Last onsen night — enjoy it!
+> **TLDR:** 15min drive back to Nayoro Piyashiri — everyone enjoyed it so much on Feb 9 they want another round! Last onsen night. Pack tonight — early start tomorrow for Gus & JP's flight.
 
 ---
 
 ## Resort
 
 **Planned:** Kokusetsu Horotachi  
-**Actual:** _pending_  
+**Actual:** Nayoro Piyashiri _(crew voted to return — loved it!)_
 
 **Quick facts:**
-- Vertical: 300m | Top: 520m
-- Highlight: National-run resort, extremely uncrowded, powder stashes
-- [📍 Google Maps](https://maps.google.com/?q=Horotachi+Ski+Resort+Hokkaido)
+- Vertical: 310m | Top: 540m
+- Highlight: Closest to Nayoro, local northern powder, crew favourite!
+- [📍 Google Maps](https://maps.google.com/?q=Nayoro+Piyashiri+Ski+Resort)
 
-→ [Full Resort Profile](../resorts/horotachi.md)
+→ [Full Resort Profile](../resorts/nayoro-piyashiri.md)
 
 ---
 
 ## Travel
 
 **From:** Nayoro Onsen Sunpillar  
-**To:** Horotachi Ski Resort  
-**Distance:** ~25km | **Drive:** ~30min
+**To:** Nayoro Piyashiri  
+**Distance:** ~10km | **Drive:** ~15min
 
 
 ---
@@ -51,16 +51,16 @@ Night 3 of 3 (final night)
 
 ## Backup Plan
 
-**If Horotachi closed:** Nayoro Piyashiri (closer) or full rest/onsen day
+**If Piyashiri closed:** Wassamu (45min) or full rest/onsen day
 
 ---
 
 ## Notes
 
-_Last night of onsen bliss. Tomorrow we drive back to Sapporo — long day._
+_Last night of onsen bliss. Pack tonight! Tomorrow is an early 7am departure to get Gus & JP to CTS for their 12:50 flight._
 
 ---
 
 ## Tomorrow
 
-**Feb 12:** Transit to Sapporo — No skiing. ~4h drive. Last night in Sapporo.
+**Feb 12:** Transit to Sapporo — ⚠️ Early 7am departure! Gus & JP flight at 12:50 from CTS. ~4h drive.
