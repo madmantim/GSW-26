@@ -86,6 +86,49 @@ Quick phrases for restaurants, shops, and getting around!
 
 ---
 
+## Ticket Numbers (Food Courts / Restaurants)
+
+When you order and get a ticket number, listen for your number + "ban" (番):
+
+| Number | Japanese | Say it |
+|--------|----------|--------|
+| 100 | 百 | **hyaku** |
+| 101 | 百一 | **hyaku-ichi** |
+| 102 | 百二 | **hyaku-ni** |
+| 103 | 百三 | **hyaku-san** |
+| 104 | 百四 | **hyaku-yon** |
+| 105 | 百五 | **hyaku-go** |
+| 106 | 百六 | **hyaku-roku** |
+| 107 | 百七 | **hyaku-nana** |
+| 108 | 百八 | **hyaku-hachi** |
+| 109 | 百九 | **hyaku-kyū** |
+| 110 | 百十 | **hyaku-jū** |
+| 111 | 百十一 | **hyaku-jū-ichi** |
+| 112 | 百十二 | **hyaku-jū-ni** |
+
+**Pattern:** hyaku (100) + jū (10s) + ones digit + "ban!"
+
+**Basic numbers 1-10 refresher:**
+
+| # | Japanese |
+|---|----------|
+| 1 | ichi |
+| 2 | ni |
+| 3 | san |
+| 4 | yon |
+| 5 | go |
+| 6 | roku |
+| 7 | nana |
+| 8 | hachi |
+| 9 | kyū |
+| 10 | jū |
+
+**Useful phrases:**
+- Show your ticket and say: **"Kore desu"** (This is me!)
+- Didn't hear? **"Mou ichido onegaishimasu"** (One more time please)
+
+---
+
 ## Emergency Ski Day
 
 | English | Japanese | Say it |
