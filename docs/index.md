@@ -27,7 +27,7 @@ Tim, Trevor, Declan, JP, Gus, Robbo, Graeme, Justin, Cardy
 | 1. Sapporo | Teine, Kokusai, Kiroro |
 | 2. Tomamu | Racey, Tomamu, Sahoro |
 | 3. Asahikawa | Furano, Asahidake, Kurodake, Kamui, Pippu |
-| 4. Nayoro | Wassamu, Nayoro, Horotachi |
+| 4. Nayoro | Piyashiri, Wassamu, Piyashiri (encore!) |
 
 ---
 
