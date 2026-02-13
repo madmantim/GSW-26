@@ -13,7 +13,7 @@
 ## Resort
 
 **Planned:** Kokusetsu Horotachi  
-**Actual:** Nayoro Piyashiri _(crew voted to return — loved it!)_
+**Actual:** Nayoro Piyashiri (3rd time!) _(crew voted to return — loved it!)_
 
 **Quick facts:**
 - Vertical: 310m | Top: 540m
